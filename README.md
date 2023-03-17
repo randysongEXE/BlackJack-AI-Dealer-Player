@@ -1,5 +1,5 @@
 # BlackJack, Dealer and AI Player
-This application is a simple implementation of the popular card game "Blackjack" in python. Here are the rules:
+This application is a simple implementation of the popular card game "Blackjack" in python. To start, here are the rules of Blackjack:
 
 1. The goal of the game is to have a hand that is worth more than the dealer's hand without going over 21 points.
 2. Cards are worth their face value, with face cars (jacks, kings, queens) worth 10 points and aces worth either 1 or 11 (player's choice).
