@@ -1,3 +1,5 @@
+import random
+
 class AIPlayer(Player):
     def __init__(self, alpha, gamma, epsilon):
         super().__init__()
