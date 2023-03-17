@@ -19,7 +19,7 @@ It is important to note, however, that in the first several games played, the "Q
 
 The dealer, on the other hand, is a set algorithm and will always execute the same action based on its constraints.
 
-After running the application 10,000 times, the AI player had a win rate of approximately 40.17 percent, with an average tie rate of 9.73 percent. Interestingly enough, these numbers a slightly lower than the approximate win rate for a human player (42-43 percent). This is likely due to the AI making random decisions for a large majority of its beginning games, resulting in a higher losses than normal. Although this percentage is somewhat leveled as more games are played (due to the Q-table growing more accurate), it is unlikely that the win percentage will grow significantly, with its growth eventually becoming negligible. With a more sophisticated AI, however, the win percentage may possibly be much higher.
+After running the application 10,000 times, the AI player had a win rate of approximately 40.17 percent, with an average tie rate of 9.73 percent. Interestingly enough, these numbers are slightly lower than the approximate win rate for a human player (42-43 percent). This is likely due to the AI making random decisions for a large majority of its beginning games, resulting in a higher losses than normal. Although this percentage is somewhat leveled as more games are played (due to the Q-table growing more accurate), it is unlikely that the win percentage will grow significantly, with its growth eventually becoming negligible. With a more sophisticated AI, however, the win percentage may possibly be much higher.
 
 
 
